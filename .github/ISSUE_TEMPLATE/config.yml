@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+community_links:
+  - name: Ask a question
+    url: https://github.com/demorga/community/discussions
+    about: GitHub discussions for the Demorga Organisation
